@@ -1,1 +1,1 @@
-### Python Learning Repository.
+This repository is a collection of code I wrote while learning Java
